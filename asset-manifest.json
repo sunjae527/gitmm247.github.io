@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eca85bd7.chunk.css",
+    "main.js": "/static/js/main.882af55c.chunk.js",
+    "main.js.map": "/static/js/main.882af55c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4e28c442.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4e28c442.js.map",
+    "static/js/2.2fb21f59.chunk.js": "/static/js/2.2fb21f59.chunk.js",
+    "static/js/2.2fb21f59.chunk.js.map": "/static/js/2.2fb21f59.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.eca85bd7.chunk.css.map": "/static/css/main.eca85bd7.chunk.css.map",
+    "static/js/2.2fb21f59.chunk.js.LICENSE.txt": "/static/js/2.2fb21f59.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Pretendard-SemiBold.91e24f2b.woff",
+    "static/media/background.7f6c6bc5.svg": "/static/media/background.7f6c6bc5.svg",
+    "static/media/logo.33ee7100.svg": "/static/media/logo.33ee7100.svg",
+    "static/media/logo_sk.1fea7b9b.png": "/static/media/logo_sk.1fea7b9b.png",
+    "static/media/search-by-algolia.a5dc1980.svg": "/static/media/search-by-algolia.a5dc1980.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e28c442.js",
+    "static/js/2.2fb21f59.chunk.js",
+    "static/css/main.eca85bd7.chunk.css",
+    "static/js/main.882af55c.chunk.js"
+  ]
+}
